@@ -5,7 +5,7 @@
 
 <h3 align="left">About Me:</h3>
 
-<h3 align="center">Hello! I'm Sunil Karani, a passionate DevOps Engineer with a strong foundation in AWS Cloud Services, Automation, and DevOps practices. Skilled in AWS Cloud Migration, Linux Administration, and CI/CD Integration. I have hands-on experience with a variety of DevOps tools and practices, including AWS, Docker, Kubernetes, Maven, Nagios and Jenkins.</h3>
+Hello! I'm Sunil Karani, a passionate DevOps Engineer with a strong foundation in AWS Cloud Services, Automation, and DevOps practices. Skilled in AWS Cloud Migration, Linux Administration, and CI/CD Integration. I have hands-on experience with a variety of DevOps tools and practices, including AWS, Docker, Kubernetes, Maven, Nagios and Jenkins.
 
 ## Connect with me:
 <p align="left">
