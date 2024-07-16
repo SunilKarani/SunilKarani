@@ -1,4 +1,4 @@
-![logo](https://github.com/SunilKarani/SunilKarani/blob/main/SUNIL%20K%20(2).png)
+![logo](https://github.com/SunilKarani/SunilKarani/blob/813a41aee94f6756fa8e7f0ea4163de6ec4b6495/GitHub-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Sunil Karani</h1>
 
 <img align="right" alt="Coding" width="400" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif">
