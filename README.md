@@ -1,5 +1,7 @@
-![logo](https://mastercloud.com.tr/wp-content/uploads/2024/02/partner.gif)
+![logo](https://github.com/ShivamBorban/ShivamBorban/blob/main/GitHub-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Sunil Karani</h1>
+
+<img align="right" alt="coding" width="400" src="https://github.com/ShivamBorban/ShivamBorban/blob/main/GitHub-Gif.gif">
 <h3 align="center">Hello! I'm Sunil Karani, a passionate DevOps Engineer with a strong foundation in AWS Cloud Services, Automation, and DevOps practices. Skilled in AWS Cloud Migration, Linux Administration, and CI/CD Integration. I have hands-on experience with a variety of DevOps tools and practices, including AWS, Docker, Kubernetes, Maven, Nagios and Jenkins.</h3>
 <img align="right" alt="Coding" width="400" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif">
 <h3 align="left">Connect with me:</h3>
